@@ -1,0 +1,8 @@
+C:\Users\zirko\source\repos\lalalu\lalalu\bin\Debug\lalalu.exe.config
+C:\Users\zirko\source\repos\lalalu\lalalu\bin\Debug\lalalu.exe
+C:\Users\zirko\source\repos\lalalu\lalalu\bin\Debug\lalalu.pdb
+C:\Users\zirko\source\repos\lalalu\lalalu\obj\Debug\lalalu.csproj.AssemblyReference.cache
+C:\Users\zirko\source\repos\lalalu\lalalu\obj\Debug\lalalu.csproj.SuggestedBindingRedirects.cache
+C:\Users\zirko\source\repos\lalalu\lalalu\obj\Debug\lalalu.csproj.CoreCompileInputs.cache
+C:\Users\zirko\source\repos\lalalu\lalalu\obj\Debug\lalalu.exe
+C:\Users\zirko\source\repos\lalalu\lalalu\obj\Debug\lalalu.pdb
